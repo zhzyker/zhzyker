@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm zhzyker also 之乎者也 
-- ✨ My bilibili: [https://space.bilibili.com/64648363](https://space.bilibili.com/64648363)
-- 🐶 网络安全行业菜狗一枚:
+- ✨ Bilibili 不知名UP猪: [https://space.bilibili.com/64648363](https://space.bilibili.com/64648363)
+- 🛫 Telegram: t.me/zhzyker
+- 🐶 网络安全行业菜狗一枚:  
 ![myslef](https://user-images.githubusercontent.com/32918050/97097194-b318dd00-16a8-11eb-8e5d-415990799fba.gif)
 
 <!--
