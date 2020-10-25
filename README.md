@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm zhzyker also 之乎者也 
 - ✨ My bilibili: [https://space.bilibili.com/64648363](https://space.bilibili.com/64648363)
-- 网络安全行业菜狗一枚:
-![image](https://github.com/zhzyker/zhzyker/blob/main/my.gif)
+- 🐶 网络安全行业菜狗一枚:
+![myslef](https://user-images.githubusercontent.com/32918050/97097194-b318dd00-16a8-11eb-8e5d-415990799fba.gif)
 
 <!--
 **zhzyker/zhzyker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
