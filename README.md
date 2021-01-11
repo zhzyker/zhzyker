@@ -2,7 +2,7 @@
 - 📺 Bilibili 不知名UP猪: [https://space.bilibili.com/64648363](https://space.bilibili.com/64648363)
 - 🛫 Telegram: [t.me/zhzyker](t.me/zhzyker)
 - 🐦 Twitter: [https://twitter.com/zhzyker](https://twitter.com/zhzyker)
-- 🐧 我的Github:  
+- 🐧 My Github:  
 ![mygithub](https://github-readme-stats.vercel.app/api?username=zhzyker&show_icons=true)
 - 🐶 网络安全行业菜狗一枚:  
 ![myslef](https://user-images.githubusercontent.com/32918050/97097194-b318dd00-16a8-11eb-8e5d-415990799fba.gif)
