@@ -6,7 +6,7 @@
 
 ![vulmap](https://img.shields.io/badge/-zhzyker/vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED)
 ![dismap](https://img.shields.io/badge/-zhzyker/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
-![crkmap](https://img.shields.io/badge/-zhzyker/crkmap-40E0D0?style=flat-square&logo=go&logoColor=white&labelColor=00CED1) 
+![crkmap](https://img.shields.io/badge/-zhzyker/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0) 
 
 ![banner](https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png)
 <!--
