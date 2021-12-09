@@ -1,12 +1,8 @@
-### Hi there 👋 I'm zhzyker also 之乎者也 
+### Hi there 👋 I'm zhzyker also 之乎者也 <img align='right' src='https://github-readme-stats.vercel.app/api?username=zhzyker&show_icons=true&theme=cobalt' width='410px'>
+
 - 📺 My Bilibili: [https://space.bilibili.com/64648363](https://space.bilibili.com/64648363)
 - 🛫 My Telegram: [t.me/zhzyker](t.me/zhzyker)
 - 🐦 My Twitter: [https://twitter.com/zhzyker](https://twitter.com/zhzyker)
-- 🐧 My Github:  
-![mygithub](https://github-readme-stats.vercel.app/api?username=zhzyker&show_icons=true&theme=cobalt)
-- 🐶 My:  
-![myslef](https://user-images.githubusercontent.com/32918050/97097194-b318dd00-16a8-11eb-8e5d-415990799fba.gif)
-
 
 ![banner](https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png)
 <!--
@@ -22,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🐶 My:  
+![myslef](https://user-images.githubusercontent.com/32918050/97097194-b318dd00-16a8-11eb-8e5d-415990799fba.gif)
 -->
