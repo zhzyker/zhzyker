@@ -1,8 +1,12 @@
-### Hi there 👋 I'm zhzyker also 之乎者也 <img align='right' src='https://github-readme-stats.vercel.app/api?username=zhzyker&show_icons=true&theme=cobalt' width='410px'>
+### Hi there 👋 I'm zhzyker also 之乎者也 <img align='right' src='https://github-readme-stats.vercel.app/api?username=zhzyker&show_icons=true&theme=cobalt' width='420px'>
 
 - 📺 My Bilibili: [https://space.bilibili.com/64648363](https://space.bilibili.com/64648363)
 - 🛫 My Telegram: [t.me/zhzyker](t.me/zhzyker)
-- 🐦 My Twitter: [https://twitter.com/zhzyker](https://twitter.com/zhzyker)
+- 🐦 My Twitter: [https://twitter.com/zhzyker](https://twitter.com/zhzyker)  
+
+![vulmap](https://img.shields.io/badge/-zhzyker/vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED)
+![dismap](https://img.shields.io/badge/-zhzyker/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
+![crkmap](https://img.shields.io/badge/-zhzyker/crkmap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
 
 ![banner](https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png)
 <!--
