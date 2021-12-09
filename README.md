@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+%F0%9F%91%8B;Are+you+a%20+hacker%F0%9F%A4%94?;Nice+to+meet+you!&center=true&size=20">
-  </a>
-</h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2358F7D8&size=22&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D;Hope+there+is+something+you+need+%F0%9F%8E%81">
+</a>
+</h1>  
 
 ### Hi there 👋 I'm zhzyker also 之乎者也 <img align='right' src='https://github-readme-stats.vercel.app/api?username=zhzyker&show_icons=true&theme=cobalt' width='380px'>
 
