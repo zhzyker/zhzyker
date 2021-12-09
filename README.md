@@ -8,7 +8,7 @@
 ![dismap](https://img.shields.io/badge/-zhzyker/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
 ![crkmap](https://img.shields.io/badge/-zhzyker/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0)  
 
-<img align='left' src='https://img.shields.io/badge/-vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='150px'><img align='left' src='https://img.shields.io/badge/-dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA' width='150px'><img align='left' src='https://img.shields.io/badge/-crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0' width='150px'>
+<img align='left' src='https://img.shields.io/badge/-vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='80px'><img align='left' src='https://img.shields.io/badge/-dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA' width='80px'><img align='left' src='https://img.shields.io/badge/-crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0' width='80px'>
 
 ![banner](https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png)
 <!--
