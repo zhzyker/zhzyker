@@ -14,7 +14,7 @@
 
 ***
 
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhzyker&theme=nord_dark' width='550px'> <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhzyker&theme=nord_dark' width='270px'>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhzyker&theme=nord_dark' width='555px'> <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhzyker&theme=nord_dark' width='270px'>
 
 <img src='https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png'>
 
