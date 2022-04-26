@@ -12,7 +12,7 @@
 
 <img src='https://img.shields.io/badge/-zhzyker/vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='140px'> <img src='https://img.shields.io/badge/-zhzyker/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA' width='140px'> <img src='https://img.shields.io/badge/-zhzyker/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0' width='140px'>
 
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhzyker&theme=nord_dark' width='570px'><img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhzyker&theme=nord_dark' width='260px'>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhzyker&theme=nord_dark' width='560px'> <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhzyker&theme=nord_dark' width='250px'>
 
 <img src='https://github.com/zhzyker/zhzyker/blob/main/images/banner-github-1.png'>
 
